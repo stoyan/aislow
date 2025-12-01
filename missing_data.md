@@ -1,0 +1,33 @@
+=== Training data (first 1000 rows) missing value summary ===
+
+numDomElements: 1/1000 missing
+bytesJSON: 1000/1000 missing
+reqJSON: 1000/1000 missing
+num_long_tasks: 112/1000 missing
+TotalBlockingTime: 112/1000 missing
+EvaluateScript: 34/1000 missing
+FunctionCall: 11/1000 missing
+Layout: 10/1000 missing
+image_savings: 10/1000 missing
+renderBlockingCSS: 10/1000 missing
+renderBlockingJS: 10/1000 missing
+FirstContentfulPaint: 14/1000 missing
+FirstImagePaint: 83/1000 missing
+FirstMeaningfulPaint: 23/1000 missing
+FirstPaint: 10/1000 missing
+LargestContentfulPaint: 1000/1000 missing
+layout_shifts_count: 316/1000 missing
+loadEventDuration: 10/1000 missing
+dclDuration: 10/1000 missing
+_responses_200: 10/1000 missing
+_responses_404: 10/1000 missing
+_responses_other: 10/1000 missing
+img_missing_width: 7/1000 missing
+img_missing_height: 7/1000 missing
+img_lazy_count: 7/1000 missing
+svg_count: 7/1000 missing
+is_lcp_preloaded: 543/1000 missing
+scripts_total: 23/1000 missing
+scripts_inline: 23/1000 missing
+scripts_async: 23/1000 missing
+scripts_defer: 23/1000 missing
