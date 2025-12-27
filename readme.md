@@ -1,5 +1,7 @@
 # AI Web Performance Consultant
 
+Writeup here: https://calendar.perfplanet.com/2025/aislow/
+
 This project builds an AI model that acts as a "virtual performance consultant." It analyzes web performance data (`results.json`) to identify the most significant factors hurting a page's `SpeedIndex` and provides actionable, data-driven recommendations.
 
 The core idea is not to *predict* a `SpeedIndex` but to **explain why** a page's `SpeedIndex` is what it is.
